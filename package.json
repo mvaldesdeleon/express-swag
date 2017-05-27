@@ -1,0 +1,26 @@
+{
+  "name": "express-swag",
+  "version": "0.0.1",
+  "description": "From file to middleware in 6 seconds or less",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./index.js"
+  },
+  "dependencies": {
+    "js-yaml": "^3.8.4",
+    "pify": "^2.3.0",
+    "swagger-tools": "^0.10.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0"
+  },
+  "repository": "mvaldesdeleon/express-swag",
+  "keywords": [
+    "express",
+    "middleware",
+    "swagger",
+    "openapi"
+  ],
+  "author": "Martin Valdes de Leon <m.valdesdeleon@gmail.com>",
+  "license": "MIT"
+}
